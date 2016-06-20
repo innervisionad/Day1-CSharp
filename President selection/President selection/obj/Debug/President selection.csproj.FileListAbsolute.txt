@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\Day1-CSharp\President selection\President selection\bin\Debug\President selection.exe.config
+C:\Users\student\Documents\GitHub\Day1-CSharp\President selection\President selection\bin\Debug\President selection.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\President selection\President selection\bin\Debug\President selection.pdb
+C:\Users\student\Documents\GitHub\Day1-CSharp\President selection\President selection\obj\Debug\President selection.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\President selection\President selection\obj\Debug\President selection.pdb
