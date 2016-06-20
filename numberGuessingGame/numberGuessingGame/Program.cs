@@ -13,7 +13,7 @@ namespace numberGuessingGame
             Console.WriteLine("I will guess a number between 1 and 50 and you need to guess it");
             Random rnd = new Random();
             int secretAnswer = rnd.Next(1, 51);
-
+            Console.WriteLine(secretAnswer.GetType());
             int numGuess;
             do
             {
