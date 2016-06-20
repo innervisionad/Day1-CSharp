@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\bin\Debug\languageDictionary.exe.config
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\obj\Debug\languageDictionary.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\bin\Debug\languageDictionary.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\bin\Debug\languageDictionary.pdb
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\obj\Debug\languageDictionary.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\languageDictionary\languageDictionary\obj\Debug\languageDictionary.pdb
