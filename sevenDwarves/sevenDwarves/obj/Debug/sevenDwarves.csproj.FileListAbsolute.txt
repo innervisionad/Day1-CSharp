@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe.config
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.pdb
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\sevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.pdb
