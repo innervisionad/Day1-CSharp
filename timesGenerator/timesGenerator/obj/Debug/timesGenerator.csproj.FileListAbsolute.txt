@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\bin\Debug\timesGenerator.exe.config
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\obj\Debug\timesGenerator.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\bin\Debug\timesGenerator.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\bin\Debug\timesGenerator.pdb
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\obj\Debug\timesGenerator.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\timesGenerator\timesGenerator\obj\Debug\timesGenerator.pdb
