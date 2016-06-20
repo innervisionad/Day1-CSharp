@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe.config
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.pdb
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.exe
+C:\Users\student\Documents\GitHub\Day1-CSharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.pdb
